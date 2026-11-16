@@ -1,0 +1,7 @@
+1|Clean Code|Robert C. Martin|Programming|3|3|0
+2|Introduction to Algorithms|Cormen|Programming|2|2|0
+3|Let Us C|Yashavant Kanetkar|Programming|2|1|1
+4|To Kill a Mockingbird|Harper Lee|Fiction|1|1|0
+5|1984|George Orwell|Fiction|2|2|0
+6|A Brief History of Time|Stephen Hawking|Science|1|1|0
+7|Maths|Rd sharma |Question Bank|50|50|0
